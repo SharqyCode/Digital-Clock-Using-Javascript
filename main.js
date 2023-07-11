@@ -1,10 +1,3 @@
-// while (true) {
-//   setTimeout(() => {
-//     let dateNow = new Date();
-//     console.log(dateNow);
-//   }, 1000);
-// }
-
 let hours = document.querySelector("#hours .num");
 let minutes = document.querySelector("#minutes .num");
 let seconds = document.querySelector("#seconds .num");
