@@ -67,6 +67,6 @@ body {
   margin: 0px 40px;
 }
 
-.container #clock div span {
+.container #clock div span:not([class="num"]) {
   font-size: 16px;
 }
